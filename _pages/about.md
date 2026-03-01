@@ -32,9 +32,7 @@ My research interests center on NLP / Large Language Models (LLMs), with a focus
 
 **Alignment for Efficient Tool Calling of Large Language Models**  
 Hongshen Xu*, **Zihan Wang***, Zichen Zhu, Lei Pan, Xingyu Chen, Lu Chen, Kai Yu  
-<span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2503.06708)</span>
-
-<div class="badge">EMNLP 2025 (Main)</div>
+<span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2503.06708)</span><div class="badge">EMNLP 2025 (Main)</div>
 
 <div style="clear: both;"></div>
 
@@ -49,7 +47,6 @@ Hongshen Xu*, **Zihan Wang***, Zichen Zhu, Lei Pan, Xingyu Chen, Lu Chen, Kai Yu
 **Reducing Tool Hallucination via Reliability Alignment**  
 Hongshen Xu, Su Zhu, **Zihan Wang**, Hang Zheng, Da Ma, Ruisheng Cao, Shuai Fan, Lu Chen, Kai Yu  
 <span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2412.04141)</span>
-
 <div class="badge">ICML 2025</div>
 
 <div style="clear: both;"></div>
@@ -65,7 +62,6 @@ Hongshen Xu, Su Zhu, **Zihan Wang**, Hang Zheng, Da Ma, Ruisheng Cao, Shuai Fan,
 **Memento: Fine-tuning LLM Agents without Fine-tuning LLMs**  
 Huichi Zhou*, Yihang Chen*, Siyuan Guo, Xue Yan, Kin Hei Lee, **Zihan Wang**, Ka Yiu Lee, Guchun Zhang, Kun Shao, Linyi Yang†, Jun Wang†  
 <span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2508.16153) [\[Code\]](https://github.com/Agent-on-the-Fly/Memento)</span>
-
 <div class="badge">Technical Report</div>
 
 <div style="clear: both;"></div>
@@ -81,8 +77,7 @@ Huichi Zhou*, Yihang Chen*, Siyuan Guo, Xue Yan, Kin Hei Lee, **Zihan Wang**, Ka
 **Delusions of Large Language Models**  
 Hongshen Xu, Zixv Yang, Zichen Zhu, Kunyao Lan, **Zihan Wang**, Mengyue Wu, Ziwei Ji, Lu Chen, Pascale Fung, Kai Yu  
 <span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2503.06709)</span>
-
-<div class="badge">Manuscript / In Progress</div>
+<div class="badge">Manuscript</div>
 
 <div style="clear: both;"></div>
 
