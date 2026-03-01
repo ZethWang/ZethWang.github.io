@@ -1,6 +1,5 @@
 # Site Settings
 title                    : "Zihan Wang（王子涵）"
-description              : "M.S. incoming at Tsinghua University (Sep. 2026). B.Eng. in CS at Xi'an Jiaotong University."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,7 +14,7 @@ baidu_site_verification  :  # TODO
 # Site Author
 author:
   name             : "Zihan Wang（王子涵）"
-  avatar           : "images/android-chrome-512x512.png"   # TODO: replace with your photo if you want
+  avatar           : "images/me.png"   # TODO: replace with your photo if you want
   bio              : "Incoming M.S. student at Tsinghua University."
   location         : "Shenzhen, China"   # (you can also write "Xi'an / Beijing, China")
   employer         :                    # TODO: optional (e.g., "Tsinghua University")
