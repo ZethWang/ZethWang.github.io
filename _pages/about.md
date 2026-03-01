@@ -62,9 +62,8 @@ Hongshen Xu, Su Zhu, **Zihan Wang**, Hang Zheng, Da Ma, Ruisheng Cao, Shuai Fan,
 
 **Memento: Fine-tuning LLM Agents without Fine-tuning LLMs**  
 Huichi Zhou*, Yihang Chen*, Siyuan Guo, Xue Yan, Kin Hei Lee, **Zihan Wang**, Ka Yiu Lee, Guchun Zhang, Kun Shao, Linyi Yang†, Jun Wang†  
-<span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2508.16153) [\[Code\]](https://github.com/Agent-on-the-Fly/Memento)</span>
+<span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2508.16153) [\[Code\]](https://github.com/Agent-on-the-Fly/Memento) ![GitHub stars](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social)</span>
 <div class="badge">Technical Report</div>
-[AgentFly](https://github.com/Agent-on-the-Fly/Memento) ![GitHub stars](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social)
 <div style="clear: both;"></div>
 
 - A memory-based continual improvement framework enabling agents to learn from experience **without updating model weights**.
