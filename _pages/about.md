@@ -10,20 +10,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Zihan Wang** (王子涵), an incoming **M.S. student in Artificial Intelligence at Tsinghua University (Sep. 2026)**. My advisor is [Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj_en/main.psp).
+I am **Zihan Wang** (王子涵), an incoming **M.S. student** in Artificial Intelligence at **Tsinghua University** (Sep. 2026). My advisor is [Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj_en/main.psp).
 
 I received my B.Eng. in Computer Science and Technology from **Xi’an Jiaotong University**.
 
-My research interests center on **NLP / Large Language Models (LLMs)**, with a focus on building **intrinsically motivated, self-evolving, and reasoning-capable agents**, particularly for **coding**, **graphical user interface (GUI) interaction**, and **research-oriented applications**.
-
+My research interests center on NLP / Large Language Models (LLMs), with a focus on building **intrinsically motivated, self-evolving, and reasoning-capable agents**, particularly for **coding**, **graphical user interface (GUI) interaction**.
 
 ---
 
 # 🔥 News
 - *2026.09*: 🎓 Incoming M.S. student at **Tsinghua University (Shenzhen)**.
-- *2025*: 📌 **EMNLP 2025 (Main)** — *Alignment for Efficient Tool Calling of Large Language Models*.
-- *2025*: 📌 **ICML 2025** — *Reducing Tool Hallucination via Reliability Alignment*.
-
+- *2025*: 🎉 Our paper **“Alignment for Efficient Tool Calling of Large Language Models”** was accepted to **EMNLP 2025 (Main)**.
+- *2025*: 🎉 Our paper **“Reducing Tool Hallucination via Reliability Alignment”** was accepted to **ICML 2025**.
 
 ---
 
@@ -37,6 +35,8 @@ Hongshen Xu*, **Zihan Wang***, Zichen Zhu, Lei Pan, Xingyu Chen, Lu Chen, Kai Yu
 <span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2503.06708)</span>
 
 <div class="badge">EMNLP 2025 (Main)</div>
+
+<div style="clear: both;"></div>
 
 - Proposes a **multi-objective alignment** framework combining **probabilistic knowledge boundary estimation** with **dynamic decision making** to reduce unnecessary tool calls while preserving performance.
 
@@ -52,6 +52,8 @@ Hongshen Xu, Su Zhu, **Zihan Wang**, Hang Zheng, Da Ma, Ruisheng Cao, Shuai Fan,
 
 <div class="badge">ICML 2025</div>
 
+<div style="clear: both;"></div>
+
 - Defines and categorizes tool hallucinations (tool-selection vs tool-usage) and introduces **reliability-oriented alignment** to improve robust tool interaction and efficiency.
 
 </div>
@@ -65,6 +67,8 @@ Huichi Zhou*, Yihang Chen*, Siyuan Guo, Xue Yan, Kin Hei Lee, **Zihan Wang**, Ka
 <span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2508.16153) [\[Code\]](https://github.com/Agent-on-the-Fly/Memento)</span>
 
 <div class="badge">Technical Report</div>
+
+<div style="clear: both;"></div>
 
 - A memory-based continual improvement framework enabling agents to learn from experience **without updating model weights**.
 
@@ -80,6 +84,8 @@ Hongshen Xu, Zixv Yang, Zichen Zhu, Kunyao Lan, **Zihan Wang**, Mengyue Wu, Ziwe
 
 <div class="badge">Manuscript / In Progress</div>
 
+<div style="clear: both;"></div>
+
 - Investigates high-confidence hallucination phenomena (“delusions”) and analyzes underlying causes and behaviors.
 
 </div>
@@ -88,7 +94,8 @@ Hongshen Xu, Zixv Yang, Zichen Zhu, Kunyao Lan, **Zihan Wang**, Mengyue Wu, Ziwe
 ---
 
 Repository  
-[ [AgentFly](https://github.com/Agent-on-the-Fly/Memento) ![GitHub stars](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social) | [OpenR](#) | [CycleResearcher](#) | [LLM-Eval](#) ]
+[AgentFly](https://github.com/Agent-on-the-Fly/Memento) ![GitHub stars](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social)
+
 
 ---
 
