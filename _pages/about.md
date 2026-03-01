@@ -10,12 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Zihan Wang**, an incoming **M.S. student at Tsinghua University (Sep. 2026)**.  
-I received my B.Eng. in Computer Science and Technology from **Xi’an Jiaotong University** (GPA **3.97/4.30**, Rank **5/193**).
+I am **Zihan Wang** (王子涵), an incoming **M.S. student in Artificial Intelligence at Tsinghua University (Sep. 2026)**. My advisor is [Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj_en/main.psp).
 
-My research interests center on NLP / Large Language Models (LLMs), with a focus on building **intrinsically-motivated, self-evolving, and reasoning-capable** agents, especially in **code and gui** research application.
+I received my B.Eng. in Computer Science and Technology from **Xi’an Jiaotong University**.
 
-You can find my publications and citation stats on  <a href="https://scholar.google.com/citations?user=eToPcFsAAAAJ&hl=zh-CN">Google Scholar</a>.
+My research interests center on **NLP / Large Language Models (LLMs)**, with a focus on building **intrinsically motivated, self-evolving, and reasoning-capable agents**, particularly for **coding**, **graphical user interface (GUI) interaction**, and **research-oriented applications**.
+
 
 ---
 
@@ -24,13 +24,6 @@ You can find my publications and citation stats on  <a href="https://scholar.goo
 - *2025*: 📌 **EMNLP 2025 (Main)** — *Alignment for Efficient Tool Calling of Large Language Models*.
 - *2025*: 📌 **ICML 2025** — *Reducing Tool Hallucination via Reliability Alignment*.
 
----
-
-# 🧭 Research Topics
-- **Agent alignment for tool use**: cost-aware tool calling, knowledge boundary estimation, robust multi-turn function calling  
-- **Reliability & hallucinations**: tool hallucination taxonomy, reliability-oriented post-training  
-- **Reasoning & decision making**: improving long-horizon behaviors under verifiable signals  
-- **AI for scientific research**: LLM agents for deep research workflows and automation  
 
 ---
 
@@ -91,6 +84,11 @@ Hongshen Xu, Zixv Yang, Zichen Zhu, Kunyao Lan, **Zihan Wang**, Mengyue Wu, Ziwe
 
 </div>
 </div>
+
+---
+
+Repository  
+[ [AgentFly](https://github.com/Agent-on-the-Fly/Memento) ![GitHub stars](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social) | [OpenR](#) | [CycleResearcher](#) | [LLM-Eval](#) ]
 
 ---
 
