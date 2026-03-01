@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Zihan Wang** (王子涵), an incoming **M.S. student** in Artificial Intelligence at **Tsinghua University** (Sep. 2026). My advisor is [Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj_en/main.psp).
+I am **Zihan Wang** (王子涵), an incoming **M.S. student** in Artificial Intelligence at **Tsinghua University** (shenzhen). My advisor is [Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj_en/main.psp).
 
 I received my B.Eng. in Computer Science and Technology from **Xi’an Jiaotong University**.
 
