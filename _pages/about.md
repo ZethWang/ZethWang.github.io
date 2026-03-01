@@ -13,11 +13,9 @@ redirect_from:
 I am **Zihan Wang**, an incoming **M.S. student at Tsinghua University (Sep. 2026)**.  
 I received my B.Eng. in Computer Science and Technology from **Xi’an Jiaotong University** (GPA **3.97/4.30**, Rank **5/193**).
 
-My research interests center on **NLP / Large Language Models (LLMs)**, with a focus on building **reasoning-capable and reliable tool-using agents**.  
-More broadly, I am interested in **intrinsically-motivated and self-improving agents**, especially for **code** and **scientific research** settings, as well as **data-centric training** (data selection, mixing, and synthesis).
+My research interests center on NLP / Large Language Models (LLMs), with a focus on building **intrinsically-motivated, self-evolving, and reasoning-capable** agents, especially in **code and gui** research application.
 
-You can find my publications and citation stats on  
-<a href="https://scholar.google.com/citations?user=eToPcFsAAAAJ&hl=zh-CN">Google Scholar</a>.
+You can find my publications and citation stats on  <a href="https://scholar.google.com/citations?user=eToPcFsAAAAJ&hl=zh-CN">Google Scholar</a>.
 
 ---
 
