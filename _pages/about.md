@@ -30,6 +30,21 @@ My research interests center on NLP / Large Language Models (LLMs), with a focus
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
+**CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges**  
+**Zi-Han Wang**, Lam Nguyen, Zhengyang Zhao, Mengyue Yang, Chengwei Qin, Yujiu Yang, Linyi Yang  
+<span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2603.11863)</span>
+<div class="badge">arXiv 2026</div>
+
+<div style="clear: both;"></div>
+
+- Introduces **CreativeBench**, a benchmark for machine creativity in code generation, covering both **combinatorial** and **exploratory** creativity with executable evaluation and an inference-time enhancement strategy, **EvoRePE**.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
 **Alignment for Efficient Tool Calling of Large Language Models**  
 Hongshen Xu*, **Zihan Wang***, Zichen Zhu, Lei Pan, Xingyu Chen, Lu Chen, Kai Yu  
 <span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2503.06708)</span>
