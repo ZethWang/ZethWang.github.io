@@ -54,7 +54,7 @@ My research interests center on NLP / Large Language Models (LLMs), with a focus
 <div class='paper-box-text' markdown="1">
 
 **Alignment for Efficient Tool Calling of Large Language Models**  
-Hongshen Xu*, **Zihan Wang***, Zichen Zhu, Lei Pan, Xingyu Chen, Lu Chen, Kai Yu  
+Hongshen Xu\*, **Zihan Wang**\*, Zichen Zhu, Lei Pan, Xingyu Chen, Lu Chen, Kai Yu  
 <span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2503.06708)</span>
 <div class="badge">EMNLP 2025 (Main)</div>
 
