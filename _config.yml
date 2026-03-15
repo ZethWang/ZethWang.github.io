@@ -15,7 +15,7 @@ baidu_site_verification  :  # TODO
 # Site Author
 author:
   name             : "Zihan Wang（王子涵）"
-  avatar           : "images/me.png"   # TODO: replace with your photo if you want
+  avatar           : "images/me.jpg"   # TODO: replace with your photo if you want
   bio              : "Incoming M.S. student at Tsinghua University."
   location         : "Shenzhen, China"   # (you can also write "Xi'an / Beijing, China")
   employer         :                    # TODO: optional (e.g., "Tsinghua University")
