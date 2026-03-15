@@ -40,7 +40,7 @@ My research interests center on NLP / Large Language Models (LLMs), with a focus
 
 **CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges**  
 **Zi-Han Wang**, Lam Nguyen, Zhengyang Zhao, Mengyue Yang, Chengwei Qin, Yujiu Yang, Linyi Yang  
-<span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2603.11863)</span>
+<span style="float:right">[\[ArXiv\]](https://arxiv.org/abs/2603.11863) [\[Homepage\]](https://zethwang.github.io/creativebench.github.io/) [\[Code\]](https://github.com/ZethWang/CreativeBench)</span>
 <div class="badge">arXiv 2026</div>
 
 <div style="clear: both;"></div>
