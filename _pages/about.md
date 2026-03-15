@@ -18,7 +18,15 @@ My research interests center on NLP / Large Language Models (LLMs), with a focus
 
 ---
 
+# 📖 Education
+- *Sep. 2026 (incoming)*, **Tsinghua University**, M.S. in AI (Shenzhen)  
+- *Sep. 2022 – Jul. 2026*, **Xi’an Jiaotong University**, B.Eng. in Computer Science and Technology  
+  GPA **3.97/4.30**, Rank **5/193**
+
+---
+
 # 🔥 News
+- *2026.03*: 📄 Our paper **“CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges”** was released on **arXiv**.
 - *2026.09*: 🎓 Incoming M.S. student at **Tsinghua University (Shenzhen)**.
 - *2025*: 🎉 Our paper **“Alignment for Efficient Tool Calling of Large Language Models”** was accepted to **EMNLP 2025 (Main)**.
 - *2025*: 🎉 Our paper **“Reducing Tool Hallucination via Reliability Alignment”** was accepted to **ICML 2025**.
@@ -117,8 +125,3 @@ Hongshen Xu, Zixv Yang, Zichen Zhu, Kunyao Lan, **Zihan Wang**, Mengyue Wu, Ziwe
 - *2024–2025*: Baidu Artificial Intelligence and Big Data Elite Class
 
 ---
-
-# 📖 Education
-- *Sep. 2026 (incoming)*, **Tsinghua University**, M.S. in AI (Shenzhen)  
-- *Sep. 2022 – Jul. 2026*, **Xi’an Jiaotong University**, B.Eng. in Computer Science and Technology  
-  GPA **3.97/4.30**, Rank **5/193**
