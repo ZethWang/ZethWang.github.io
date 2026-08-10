@@ -293,16 +293,6 @@ h1:before, .anchor:before {
     max-width: 130px;
 }
 
-.wechat-id {
-    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
-    font-weight: 700;
-    color: #07753a;
-    background: #E6F4EA;
-    border-radius: 4px;
-    padding: 1px 8px;
-    letter-spacing: 0.02em;
-}
-
 @media (max-width: 64em) {
     .wechat-qr {
         left: 0;
