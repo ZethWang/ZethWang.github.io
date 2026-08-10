@@ -16,7 +16,7 @@ I am **Zihan Wang** (王子涵), an incoming **M.S. student** in Artificial Inte
 
 My research centers on **NLP / Large Language Models (LLMs)**, with a focus on building **intrinsically motivated, self-evolving, and reasoning-capable agents** — particularly around **agentic reinforcement learning, self-evolving agents, coding / GUI agents, and environment scaling**.
 
-🐈 I am always open to discussion and collaboration. Feel free to reach out via email or WeChat!
+🐈 I am always open to discussion and collaboration. Feel free to reach out via email or WeChat: wishme25
 
 <span class='anchor' id='news'></span>
 
@@ -132,7 +132,7 @@ Hongshen Xu, Zichen Zhu, Lei Pan, **<u>Zihan Wang</u>**, Su Zhu, Da Ma, Ruisheng
 <span class='anchor' id='internships'></span>
 
 # 💼 Internships
-- *Mar. 2026 – Present*: Research Intern, <a href="https://longcat.chat/blog/longcat-2.0/"><em class="entity-mention" style="--entity-color: #16A34A"><img class="entity-logo" src="/images/logos/longcat-icon.png" alt="">LongCat Team, Meituan</em></a>. Agentic RL, multimodal productivity agents, and environment scaling (LongCat 2.0 / 2.5-Vision).
+- *Mar. 2026 – Present*: Research Intern, <a href="https://longcat.chat/blog/longcat-2.0/"><em class="entity-mention" style="--entity-color: #16A34A"><img class="entity-logo" src="/images/logos/longcat-icon.png" alt="">LongCat Team, Meituan</em></a>. Agentic RL, multimodal productivity agents, and environment scaling (LongCat 2.0).
 - *Feb. 2025 – May 2025*: Research Intern, **Peking University**. LLM pre-training, data selection and mixing.
 - *Aug. 2024 – Feb. 2025*: Research Intern, **Shanghai Jiao Tong University**. LLM alignment, tool learning, and tool-use agents.
 
