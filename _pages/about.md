@@ -16,7 +16,7 @@ I am **Zihan Wang** (王子涵), an incoming **M.S. student** in Artificial Inte
 
 My research centers on **NLP / Large Language Models (LLMs)**, with a focus on building **intrinsically motivated, self-evolving, and reasoning-capable agents** — particularly around **agentic reinforcement learning, self-evolving agents, coding / GUI agents, and environment scaling**.
 
-🐈 I am always open to discussion and collaboration, and I am currently looking for internship opportunities. Feel free to reach out via email or WeChat: wishme25
+🐈 I am always open to discussion and collaboration, and I am currently looking for internship opportunities. Feel free to reach out via email or WeChat: <span class="wechat-id">wishme25</span>
 
 <span class='anchor' id='news'></span>
 
