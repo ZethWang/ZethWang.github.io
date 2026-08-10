@@ -28,7 +28,7 @@ My research centers on **NLP / Large Language Models (LLMs)**, with a focus on b
     <li class="news-item"><span class="news-date">2026.08</span><span class="news-body">🚀 Released <a href="https://arxiv.org/abs/2608.05987">AgentOPSD</a>, a recursive self-distillation method for agentic RL, featured as 🤗 HF Daily Paper #1!</span></li>
     <li class="news-item"><span class="news-date">2026.07</span><span class="news-body">🚀 Released <a href="https://arxiv.org/abs/2607.26784">SkillRise</a> on cross-task skill evolution for agentic RL.</span></li>
     <li class="news-item"><span class="news-date">2026.05</span><span class="news-body">🎉 <a href="https://arxiv.org/abs/2603.11863">CreativeBench</a> was accepted to <b>ACL 2026</b>!</span></li>
-    <li class="news-item"><span class="news-date">2026.05</span><span class="news-body">🚀 Released <a href="https://arxiv.org/abs/2605.15155">SDAR</a>, a self-distilled agentic RL framework, featured as 🤗 HF Daily Paper!</span></li>
+    <li class="news-item"><span class="news-date">2026.05</span><span class="news-body">🔥🔥 Our new work <a href="https://arxiv.org/abs/2605.15155">SDAR</a> was released, featured as 🤗 HF Daily Paper #2!</span></li>
     <li class="news-item"><span class="news-date">2025.05</span><span class="news-body">🎉 <a href="https://arxiv.org/abs/2503.06708">Alignment for Efficient Tool Calling</a> was accepted to <b>EMNLP 2025 (Main)</b>!</span></li>
     <li class="news-item"><span class="news-date">2025.05</span><span class="news-body">🎉 <a href="https://arxiv.org/abs/2412.04141">Reducing Tool Hallucination via Reliability Alignment</a> was accepted to <b>ICML 2025</b>!</span></li>
   </ul>
