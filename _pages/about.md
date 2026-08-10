@@ -75,6 +75,7 @@ Zhiyuan Yao, Yuxin Chen, Zhengxi Lu, Zishan Xu, Yueqing Sun, Yifu Guo, Yuquan Lu
 Zhengxi Lu, Zhiyuan Yao, Zhuowen Han, **<u>Zi-Han Wang</u>**, Jinyang Wu, Qi Gu, Xunliang Cai, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
 [Paper](https://arxiv.org/abs/2605.15155){:.btn-link .btn-paper} [<img src='./images/svgs/huggingface_logo.svg' alt="">HF](https://huggingface.co/papers/2605.15155){:.btn-link .btn-hf} [Code](https://github.com/ZJU-REAL/SDAR){:.btn-link .btn-code} <a href="#" class="btn-link btn-bib" data-bib-key="lu2026sdar">BIB</a>
+<span class="paper-note">🤗 HuggingFace Daily Paper #2</span>
 - Extends on-policy self-distillation to multi-turn agents, delivering dense token-level guidance on top of coarse trajectory-level rewards.
 </div>
 </div>
