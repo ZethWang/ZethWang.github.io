@@ -134,6 +134,7 @@ Hongshen Xu, Zichen Zhu, Lei Pan, **<u>Zihan Wang</u>**, Su Zhu, Da Ma, Ruisheng
 
 # 💼 Internships
 - *Mar. 2026 – Present*: Research Intern at <a href="https://github.com/meituan-longcat"><em class="entity-mention" style="--entity-color: #16A34A"><img class="entity-logo" src="/images/logos/longcat-icon.png" alt="">LongCat Team, Meituan</em></a>, advised by [Qi Gu](https://scholar.google.com/citations?hl=zh-CN&user=s_5-ctUAAAAJ), [Chengcheng Han](https://scholar.google.com/citations?hl=zh-CN&user=kGlQ56YAAAAJ), and [Yueqing Sun](https://scholar.google.com/citations?hl=zh-CN&user=6GyAX-MAAAAJ). Agentic RL, multimodal productivity agents, and environment scaling ([LongCat 2.0](https://longcat.chat/blog/longcat-2.0/)).
+- *Aug. 2025 – Feb. 2026*: Research Intern at **Southern University of Science and Technology (SUSTech)**, advised by [Linyi Yang](https://scholar.google.com/citations?user=go3sFxcAAAAJ&hl=zh-CN). AutoResearch / AI Scientist.
 - *Feb. 2025 – May 2025*: Research Intern, **Peking University**. LLM pre-training, data selection and mixing.
 - *Aug. 2024 – Feb. 2025*: Research Intern, **Shanghai Jiao Tong University**. LLM alignment, tool learning, and tool-use agents.
 
